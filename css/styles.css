@@ -1,0 +1,136 @@
+
+body{
+  margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+a{
+font-family: 'Montserrat', sans-serif;
+margin: 10px 20px;
+text-decoration:none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+h1{
+    color: #7DEDFF;
+    margin: 50px auto 0 auto ;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5.625rem;
+    line-height: 2;
+}
+h2{
+    color: #C68B59;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+
+}
+
+h3{
+  color: #EC4646;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+
+}
+hr{
+  border : dotted  gray 6px;
+  width:4%;
+border-bottom:none;
+margin:100px auto;
+
+}
+p{
+    line-height: 2;
+
+}
+span{
+  text-decoration: underline;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 16px;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #6DCAFA;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 ;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+ }
+
+ .contact-msg
+ {
+   width:25%;
+   margin: 40px auto 60px;
+
+ }
+ .intro{
+   width: 20%;
+   margin: auto;
+ }
+.web-img
+{
+  width:15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.french-fries-img
+{
+  width:15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row{
+margin:90px auto;
+  width: 50%;
+  text-align: left;
+
+}
+.top-container{
+  background-color:#E4FBFF;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  margin: 100px 0;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 60px;
+
+}
+.copyright{
+  color: #082032;
+  font-size: 0.76rem;
+  padding: 20px 0;
+}
+.bottom-cloud{
+  position: absolute;
+  left:500px;
+}
+.top-cloud{
+  position:absolute;
+  right:500px;
+  top:50px;
+}
+.footer-link{
+  color:#7DEDFF;
+}
+.pro{
+  font-weight: normal;
+}
